@@ -1,0 +1,7 @@
+{
+  "name": "Reson8 Audio Lab",
+  "description": "A modern, client-side audio workspace to apply Echo, Pitch Shift, and Reverse effects in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
